@@ -11,15 +11,10 @@ The aim of this project is to create a simple Convolutional Neural Network (CNN)
 1. Open up the .project file 
 2. STM32CubeIDE should load up along with the trained network (X-CUBE-AI directory).
 3. Run the code in Core/Src/main.c and the code should be error free.
+4. Please check line 145 - 170 in main.c for generating the output, the output can only be generated on 16x2 LCD. 
 
 *Added trained CNN file (tensorflow lite format), just in case user need to reload the deep learning network
 
-## Results 
-
-The results are shown in following code snipper:- 
-
-
-            ![image](https://user-images.githubusercontent.com/93202001/178228364-cca95d1c-bb7b-4186-86a3-ceb151a1672f.png)
 
 
 
