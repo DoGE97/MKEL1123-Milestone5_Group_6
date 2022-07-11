@@ -22,7 +22,7 @@ The results are shown in following code snipper:-
   <img 
     width="300"
     height="300"
-    src=![image](https://user-images.githubusercontent.com/93202001/178228033-06950d14-8f7d-4358-a115-37a926111abc.png)
+    src="![image](https://user-images.githubusercontent.com/93202001/178228033-06950d14-8f7d-4358-a115-37a926111abc.png)"
   >
 </p>
 
