@@ -1,6 +1,6 @@
 # MKEL1123-Milestone-5
 
-This repository contains the code for a small project.
+This repository contains the code for this small project.
 
 ## Introduction 
 
