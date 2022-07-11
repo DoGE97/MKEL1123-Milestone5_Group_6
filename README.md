@@ -13,11 +13,11 @@ The aim of this project is to create a simple Convolutional Neural Network (CNN)
 3. Run the code in Core/Src/main.c and the code should be error free.
 4. Please check line 145 - 170 in main.c for generating the output, the output can only be generated on 16x2 LCD. 
 
+*Added trained CNN file (tensorflow lite format), just in case user need to reload the deep learning network
+
 ## YouTube Link 
 
 https://youtu.be/nYrZdwCw2Hw
-
-*Added trained CNN file (tensorflow lite format), just in case user need to reload the deep learning network
 
 
 
