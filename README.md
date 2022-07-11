@@ -18,12 +18,8 @@ The aim of this project is to create a simple Convolutional Neural Network (CNN)
 
 The results are shown in following code snipper:- 
 
-<p align="center">
-  <img 
-    width="300"
-    height="300"
-    src="![image](https://user-images.githubusercontent.com/93202001/178228033-06950d14-8f7d-4358-a115-37a926111abc.png)"
-  >
-</p>
+
+             ![image](https://user-images.githubusercontent.com/93202001/178228033-06950d14-8f7d-4358-a115-37a926111abc.png)
+
 
 
