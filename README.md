@@ -8,13 +8,8 @@ The aim of this project is to create a simple Convolutional Neural Network (CNN)
 
 ## Procedure 
 
-1. Open up the .project file (STM32Cube_Facial_Recognition/.project).
+1. Open up the .project file 
 2. STM32CubeIDE should load up along with the trained network (X-CUBE-AI directory).
 3. Run the code in Core/Src/main.c and the code should be error free.
 
-## Results
-The follow code snippet shows the creation of neural network in STM32 board and prediction result
-![image](https://user-images.githubusercontent.com/93202001/178223755-4376cee5-eb2f-4265-8017-746773b4fa4d.png)
-
-The result shows that the neural network instance is created but failing to run the inference.
-![image](https://user-images.githubusercontent.com/93202001/178223639-6a3d6bf2-6462-48fc-a49c-a8122a7b1954.png)
+*Added trained CNN file (tensorflow lite format), just in case user need to reload the deep learning network
