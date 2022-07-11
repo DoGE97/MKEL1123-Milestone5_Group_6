@@ -13,3 +13,17 @@ The aim of this project is to create a simple Convolutional Neural Network (CNN)
 3. Run the code in Core/Src/main.c and the code should be error free.
 
 *Added trained CNN file (tensorflow lite format), just in case user need to reload the deep learning network
+
+## Results 
+
+The results are shown in following code snipper:- 
+
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src=![image](https://user-images.githubusercontent.com/93202001/178228033-06950d14-8f7d-4358-a115-37a926111abc.png)
+  >
+</p>
+
+
